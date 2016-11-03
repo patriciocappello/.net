@@ -10,7 +10,7 @@ namespace Datos
 {
   public static class Info
   {
-    private static List<Localidad> _localidades;
+    private static List<Localidad> _localidades;//
     private static List<Provincia> _provincias;
 
     static Info()
